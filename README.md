@@ -10,10 +10,10 @@
 
  # IMPORTANT
 
--<img width="300" height="110" alt="image" src="https://github.com/user-attachments/assets/f939e383-171f-43f6-910a-c1fc5bac13da" />
+<img width="300" height="110" alt="image" src="https://github.com/user-attachments/assets/f939e383-171f-43f6-910a-c1fc5bac13da" />
 ### IT COMES WITH ZIP STYLE
 
--<img width="1039" height="765" alt="image" src="https://github.com/user-attachments/assets/dc21cd38-19c0-4c6b-b0cb-f5fd6ff1333a" />
+<img width="1039" height="765" alt="image" src="https://github.com/user-attachments/assets/dc21cd38-19c0-4c6b-b0cb-f5fd6ff1333a" />
 ### GO INTO THE FILE THEN EXTRACT THE ZIP FILE, THEN ENTER VISUAL STUDIO
 
 
