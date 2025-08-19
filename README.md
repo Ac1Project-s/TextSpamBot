@@ -37,7 +37,7 @@ This script is strictly for **educational and testing purposes** only. Do not us
 1. Clone the repository:
 
 ```
-git clone https://github.com/Ace1Project-s/TextSpamBot.git
+git clone https://github.com/AsilYup/TextSpamBot.git
 cd TextSpamBot
 ```
 Install dependencies:,
