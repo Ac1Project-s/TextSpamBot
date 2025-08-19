@@ -1,5 +1,5 @@
+  <img width="642" height="644" alt="{3268D0BA-9FF4-4D32-8A7E-24D15DE85ADC}" src="https://github.com/user-attachments/assets/778ec42d-f5d3-4ea8-a568-e726f616edc2" />
 
-  <img width="596" height="602" alt="Ace" src="https://github.com/user-attachments/assets/6d385a3b-c537-41a3-b906-5526d3a096fe" />
 
 # TextSpamBot
 
